@@ -256,3 +256,15 @@ A voluntary framework providing standards, guidelines, and best practices for ma
 - [Mozilla MIG](https://mig.mozilla.org/doc.html) - Mozilla Investigator (MIG) is a platform for investigative remote endpoint querying and intrusion analysis.
 
 ---
+
+## Favourite GitHub Repos
+
+- [YarGen](https://github.com/Neo23x0/yarGen) - yarGen is a generator for YARA rules.
+- [Loki](https://github.com/Neo23x0/Loki) - Scanner for Simple IOCs.
+- [Stack Analyser](https://github.com/specfy/stack-analyser) - This library provide a simple way to extract from any repository: dependencies, languages, infrastructure, SaaS, databases, etc.
+- [Google Rapid Response (GRR)](https://github.com/google/grr) - GRR is a python client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to clients.
+- [SIGMA](https://github.com/SigmaHQ/sigma) - Sigma main rule repository.
+- [Security Lists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place.
+
+---
+
